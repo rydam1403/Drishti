@@ -4,11 +4,11 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/vijethph/Insight">
+  <a href="https://github.com/rydam1403/Drishti">
     <img src="assets/eye.png" alt="Logo" width="120" height="120" align="center">
   </a>
 
-  <h2 align="center">Insight</h2>
+  <h2 align="center">Drishti</h2>
 
   <p align="center">
     A Flutter app for blind people.
