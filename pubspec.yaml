@@ -1,0 +1,54 @@
+name: Drishti
+description: A Flutter App to help blind people
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  camera: ^0.8.1
+  google_ml_vision: ^0.0.5
+  path_provider: ^1.6.11
+  tflite_flutter: ^0.8.0
+  image: ^2.1.12
+  local_auth: ^0.6.3+4
+  flutter_tts: ^3.0.0
+  speech_to_text: ^3.1.0
+  tflite: ^1.1.1
+  ripple_animation: ^0.0.1+2
+  intl: ^0.16.1
+  receive_sharing_intent: ^1.4.5
+  http: ^0.12.2
+  geolocator: ^6.2.0
+  translator: ^0.1.2
+  agora_rtc_engine: ^3.3.1
+  permission_handler: ^5.0.1
+  cupertino_icons: ^1.0.2
+  flutter_ibm_watson: ^0.0.4
+  audioplayers: ^0.16.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.8.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/eye.png"
