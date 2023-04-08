@@ -1,4 +1,4 @@
-[![Status](https://img.shields.io/badge/status-active-success.svg?style=flat-square&logo=flutter)](https://github.com/vijethph/Insight)
+[![Status](https://img.shields.io/badge/status-active-success.svg?style=flat-square&logo=flutter)](https://github.com/rydam1403/Drishti)
 [![made-with-flutter](https://img.shields.io/badge/made%20with-flutter-blue.svg?style=for-the-badge&labelColor=03045e&logo=flutter)](https://flutter.dev)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
@@ -14,9 +14,9 @@
     A Flutter app for blind people.
     <br />
     <br />
-    <a href="https://github.com/vijethph/Insight/issues">Report Bug</a>
+    <a href="https://github.com/rydam1403/Drishti/issues">Report Bug</a>
     ·
-    <a href="https://github.com/vijethph/Insight/issues">Request Feature</a>
+    <a href="https://github.com/rydam1403/Drishti/issues">Request Feature</a>
   </p>
 </div>
 
@@ -31,9 +31,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing ![contributions welcome](https://github.com/vijethph/Insight/pulls)](#contributing-)
-- [License](#license)
-- [Contact](#contact)
 - [Thank You!](#thank-you)
 - [Acknowledgements](#acknowledgements)
 
@@ -84,13 +81,13 @@ flutter doctor
 1. Download or Clone the repo
 
 ```git
-git clone https://github.com/vijethph/Insight.git
+git clone https://github.com.git/rydam1403/Drishti.git
 ```
 
 2. Open the downloaded project folder
 
 ```sh
-cd Insight
+cd Drishti
 ```
 
 3. Make sure Flutter executable is added to environment variables. Go to project root and execute the following command in console to get the required dependencies
@@ -117,37 +114,13 @@ flutter run
 
 Once the app starts, authenticate yourself with fingerprint. Then, tap to issue voice commands like `recognize face`, `detect objects`, `read text` and `send my location` to perform respective functionalities. In face recognition screen, double tap to change camera, and once human face is detected, long tap to save detected face. The name for detected face can be given with voice input by tapping onto screen.
 
-<!-- CONTRIBUTING -->
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/vijethph/Insight/pulls)
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License.
-
-<!-- CONTACT -->
-
-## Contact
-
-Vijeth P H - [@vijethph](https://github.com/vijethph)
-
-Sathya M - [@sathya5278](https://github.com/sathya5278)
-
-Shashank Ashok Gadavi - [@Shashankgadavi](https://github.com/Shashankgadavi)
-
-Sagar V - [@sagubantii1911](https://github.com/sagubantii1911)
-
-Project Link: [https://github.com/vijethph/Insight](https://github.com/vijethph/Insight)
 
 ## Thank You!
 
